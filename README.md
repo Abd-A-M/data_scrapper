@@ -1,5 +1,5 @@
 # data_scrapper
-scrap data from facebook
+scrap data from twitter
 in this code iam collect users profile images and thier contry 
 from thier twitter accountusing 
 1- Pyautogui from python.
